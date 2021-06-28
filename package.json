@@ -1,0 +1,19 @@
+{
+  "name": "broker-example",
+  "version": "1.0.0",
+  "description": "Example of creating a service which publishes to the Optix MQTT broker system",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tic/optix-broker-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tic/optix-broker-example/issues"
+  },
+  "homepage": "https://github.com/tic/optix-broker-example#readme"
+}
