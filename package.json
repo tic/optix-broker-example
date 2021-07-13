@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/tic/optix-broker-example/issues"
   },
-  "homepage": "https://github.com/tic/optix-broker-example#readme"
+  "homepage": "https://github.com/tic/optix-broker-example#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "luxon": "^1.27.0",
+    "mqtt": "^4.2.8"
+  }
 }
